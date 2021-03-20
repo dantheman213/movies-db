@@ -1,6 +1,6 @@
 # movies-db
 
-A collection of popular and well-known movies in an easy-to-digest JSON payload structure. Not guaranteed to be accurate, up to date, or contain every movie that has existed.
+A collection of over 100K popular and well-known movies in an easy-to-digest JSON payload structure. Not guaranteed to be accurate, up to date, or contain every movie that has existed.
 
 ## Getting Started
 
